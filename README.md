@@ -9,7 +9,7 @@ A collection of statistical analyses conducted in R, covering common methods use
 ### Linear Regression
 Examines whether psychological factors (pain self-efficacy, pain catastrophizing) predict physical activity levels in individuals with patellofemoral pain.
 
-[View Report](https://timgilgallon.github.io/stats_reports/linear_regression_psych_pa.html)
+[View Report](https://timgilgallon.github.io/stats_reports/linear_regression_PA.html)
 
 ---
 
